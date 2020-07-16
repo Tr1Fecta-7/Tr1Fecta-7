@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tr1Fecta. I primarily do iOS Runtime Modification development and work with Objective-C a lot. I'm currently in the process of learning C, so that's gonna be another adventure for me!
+
 <!--
 **Tr1Fecta-7/Tr1Fecta-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
