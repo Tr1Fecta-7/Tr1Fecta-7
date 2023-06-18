@@ -2,7 +2,10 @@
 
 I'm a 19-year-old Software Engineering student from the Netherlands, currently pursuing my second year at the HvA/Amsterdam University of Applied Sciences (AUAS). Ever since I was young, I've had a strong passion for technology, which eventually led me to the world of coding.
 
-#### 🔭 Current Projects
+Aside from coding, I'm into sneakers, photography and traveling. I intend to travel the world when I graduate from university. 
+
+
+#### 🔭 Previous Projects
 
 - **Recall** - [GitHub Repo](https://github.com/Tr1Fecta-7/Recall)
   - Written in Kotlin, Recall makes use of Jetpack Compose, SpringBoot, Room, Koin, and Clean Architecture.
