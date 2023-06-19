@@ -5,30 +5,12 @@ I'm a 19-year-old Software Engineering student from the Netherlands, currently p
 Aside from coding, I'm into sneakers, photography and traveling. I intend to travel the world when I graduate from university. 
 
 
-#### 🔭 Previous Projects
-
-- **Recall** - [GitHub Repo](https://github.com/Tr1Fecta-7/Recall)
-  - Written in Kotlin, Recall makes use of Jetpack Compose, SpringBoot, Room, Koin, and Clean Architecture.
-  - Recall is an app designed to help you learn words/definitions through flashcards.
-  - I worked on the onboarding process, flashcard creation and editing, and various other features.
- 
-- **Akara** - [Product Link](https://chariz.com/buy/akara)
-  - Akara is an iOS Runtime Modification Extension that replaces the native Control Center.
-  - The project was built completely from the ground up using Logos for jailbroken iOS devices.
-  - Independently analyzed and deciphered the inner workings of iOS frameworks, specifically focusing on the control center and SpringBoard, in the absence of official documentation.
-  - Developed by myself and designed by [@_Kennyroo](https://twitter.com/_Kennyroo)
-
 #### 🌱 What I'm Learning
 
 I'm always eager to learn and explore new technologies. Here are a few things I've recently been focusing on:
 
-- **GoLang**: In early 2023, I dedicated some time to learn GoLang for personal use.
-- **Languages**: I'm familiar with HTML, CSS, JavaScript, C#, Kotlin, Objective-C, Python, SQL, and Java.
+- **Languages**: I'm familiar with HTML, CSS, JavaScript, C#, Kotlin, Objective-C, GoLang, Python, SQL, and Java.
 - **Future Goals**: I aspire to learn Swift and create some amazing apps with it.
-
-#### 💼 Work Experience
-
-While I'm currently a student, I have gained valuable experience through my academic projects and personal endeavors.
 
 #### 📫 How to Reach Me
 
