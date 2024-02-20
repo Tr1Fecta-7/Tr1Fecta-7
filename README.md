@@ -1,6 +1,6 @@
 ### Hi there, I'm Jalil Faquiri or Tr1Fecta! 👋
 
-I'm a 19-year-old Software Engineering student from the Netherlands, currently pursuing my second year at the HvA/Amsterdam University of Applied Sciences (AUAS). Ever since I was young, I've had a strong passion for technology, which eventually led me to the world of coding.
+I'm a 20-year-old Software Engineering student from the Netherlands, currently pursuing my third year at the HvA/Amsterdam University of Applied Sciences (AUAS). Ever since I was young, I've had a strong passion for technology, which eventually led me to the world of coding.
 
 Aside from coding, I'm into sneakers, photography and traveling. I intend to travel the world when I graduate from university. 
 
