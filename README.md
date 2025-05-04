@@ -1,4 +1,4 @@
-### Hi there, I'm Jalil Faquiri or Tr1Fecta! 👋
+### Hi there, I'm Jalilkhan Faquiri or Tr1Fecta! 👋
 
 I'm a 21-year-old Software Engineering student from the Netherlands, currently pursuing my fourth year at the HvA/Amsterdam University of Applied Sciences (AUAS), and following a minor/study-abroad exchange program at the University of Michigan in Ann Arbor for the Fall '24 and Winter '25 semesters. Ever since I was young, I've had a strong passion for technology, which eventually led me to the world of coding.
 
