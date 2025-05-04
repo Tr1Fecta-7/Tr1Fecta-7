@@ -14,7 +14,7 @@ I'm always eager to learn and explore new technologies. Here are a few things I'
 
 #### 📫 How to Reach Me
 
-You can connect with me on LinkedIn: [Jalil Faquiri](https://www.linkedin.com/in/jalilkhan-faquiri)  
+You can connect with me on LinkedIn: [Jalilkhan Faquiri](https://www.linkedin.com/in/jalilkhan-faquiri)  
 Feel free to reach out to me on Twitter: [@FectaTr1](https://twitter.com/FectaTr1)
 
 #### 🤝 Open for Collaboration
